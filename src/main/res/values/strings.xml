@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatbot PSP</string>
+    <string name="dialog_pass_register">Las contraseñas no coinciden, escríbelas de nuevo correctamente</string>
+    <string name="corregir">Vale!</string>
+    <string name="dialog_conf_go_register">¿ Crear una cuenta nueva ?</string>
+    <string name="si">Claro!</string>
+    <string name="no">No</string>
+    <string name="dialog_title_main">Registrarte</string>
+    <string name="dialog_title_fail_password">Contraseña errónea</string>
+</resources>
